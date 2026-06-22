@@ -48,5 +48,5 @@ src/
 
 ## Links
 
-- 📹 Video demostrativo: [AGREGAR LINK]
-- 📄 Documentación PDF: [AGREGAR LINK]
+- 🔗 Repositorio: https://github.com/matiiiazc/Food-Store
+- 📄 Documentación PDF: Dentro del Repositorio 
